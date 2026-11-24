@@ -8,6 +8,18 @@ Built using the MERN stack, RecipeBox combines recipe discovery, social interact
 
 ---
 
+## 🌐 Live Demo
+
+**RecipeBox is now live!**
+
+- 🍲 **Live Website:** [Visit RecipeBox](https://recipebox-zeta-six.vercel.app/)
+- ⚙️ **Backend API:** [RecipeBox Backend](https://recipebox-backend-mgn8.onrender.com)
+- 💻 **GitHub Repository:** [View Source Code](https://github.com/Arghya-03/recipebox-recipe-sharing-platform)
+
+Explore the platform, discover recipes, share your creations, and organize your weekly meals.
+
+---
+
 ## ✨ Features
 
 ### 🍽️ Recipe Management
@@ -244,16 +256,33 @@ RecipeBox uses MongoDB with Mongoose models:
 
 ## 🚀 Deployment
 
-Planned deployment architecture:
+RecipeBox is successfully deployed and accessible online.
 
-| Service | Platform |
-|---|---|
-| Frontend | Vercel |
-| Backend | Render |
-| Database | MongoDB Atlas |
-| Image Storage | Cloudinary |
+The application uses the following production deployment architecture:
 
-Production deployment requires configuring environment variables and updating the frontend API URL and backend CORS settings.
+| Service | Platform | Status |
+|---|---|---|
+| Frontend | Vercel | Deployed |
+| Backend | Render | Deployed |
+| Database | MongoDB Atlas | Connected |
+| Image Storage | Cloudinary | Integrated |
+
+### Live Application Links
+
+- **Frontend:** https://recipebox-zeta-six.vercel.app/
+- **Backend:** https://recipebox-backend-mgn8.onrender.com
+- **Source Code:** https://github.com/Arghya-03/recipebox-recipe-sharing-platform
+
+### Production Configuration
+
+- Configured the production backend API URL in the frontend.
+- Deployed the React application using Vercel.
+- Hosted the Express.js backend using Render.
+- Configured frontend routing to support direct navigation and browser page refreshes.
+- Used MongoDB Atlas for cloud database hosting.
+- Integrated Cloudinary for recipe and profile image storage.
+
+The application is accessible through its live deployment URL.
 
 ---
 
@@ -261,9 +290,9 @@ Production deployment requires configuring environment variables and updating th
 
 **Arghya Maji**
 
-GitHub: [Arghya-03](https://github.com/Arghya-03)
-
-Project Repository: [RecipeBox](https://github.com/Arghya-03/recipebox-recipe-sharing-platform)
+- GitHub: [Arghya-03](https://github.com/Arghya-03)
+- Project Repository: [RecipeBox](https://github.com/Arghya-03/recipebox-recipe-sharing-platform)
+- Live Application: [RecipeBox – Live Website](https://recipebox-zeta-six.vercel.app/)
 
 ---
 
